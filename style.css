@@ -284,12 +284,24 @@ section .button button:hover{
   color: #0E2431;
   font-size: 80px;
 }
-.skills-details .experience .exp{
-  color: #0E2431;
+.skills-details .experience{
+  color: #000000;
   margin-left: 20px;
   font-size: 18px;
   font-weight: 500;
   margin: 0 6px;
+}
+.skills-details .project .sub-topic{
+  color: #0E2431;
+  font-weight: bold;
+}
+.skills-details .project .sub-topic1{
+  color: #0E2431;
+  font-weight: bold;
+}
+.skills-details .project .sub-topic2{
+  color: #0E2431;
+  font-weight: bold;
 }
 .skills-details .boxes{
   width: 45%;
